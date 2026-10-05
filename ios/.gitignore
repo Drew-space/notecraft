@@ -3,6 +3,8 @@
 *.mode2v3
 *.moved-aside
 *.pbxuser
+
+
 *.perspectivev3
 **/*sync/
 .sconsign.dblite
@@ -26,6 +28,7 @@ Flutter/flutter_assets/
 Flutter/flutter_export_environment.sh
 ServiceDefinitions.json
 Runner/GeneratedPluginRegistrant.*
+key.properties
 
 # Exceptions to above rules.
 !default.mode1v3
